@@ -4,7 +4,7 @@ https://github.com/torvalds/uemacs
 
 IF YOU WOULD LIKE TO DOWNLOAD THE PRECOMPILED VERSION 
 
-WGET/CURL: wget https://bionicbeaverlinux2.github.io/uemacs-precompiled/uemacs-precompiled.tar.gx 
+WGET/CURL: wget https://bionicbeaverlinux2.github.io/uemacs-precompiled/uemacs-precompiled.tar.gz 
 or 
 curl -LO https://bionicbeaverlinux2.github.io/uemacs-precompiled/uemacs-precompiled.tar.gz
 
